@@ -93,3 +93,6 @@ Select an option:
 2. Place `playlist.txt` in the project directory.
 3. Run the executable.
 4. Follow on-screen instructions.
+
+## Implementation
+The application is implemented using a doubly linked list written by me. The specification for the custom data type can be found in the pdf file.
