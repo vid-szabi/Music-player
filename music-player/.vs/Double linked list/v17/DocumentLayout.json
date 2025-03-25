@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Szabolcs\\Desktop\\Adatszerkezetek\\Vid\u00E1m_Szabolcs_Dupl\u00E1nL\u00E1ncoltListaAAT\\Doubly linked list\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3BB64CB-A46D-48E9-8558-C789A54F9239}|Double linked list.vcxproj|C:\\Users\\Szabolcs\\Desktop\\Adatszerkezetek\\Vid\u00E1m_Szabolcs_Dupl\u00E1nL\u00E1ncoltListaAAT\\Doubly linked list\\DBLLinkedList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E3BB64CB-A46D-48E9-8558-C789A54F9239}|Double linked list.vcxproj|solutionrelative:DBLLinkedList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3BB64CB-A46D-48E9-8558-C789A54F9239}|Double linked list.vcxproj|C:\\Users\\Szabolcs\\Desktop\\Adatszerkezetek\\Vid\u00E1m_Szabolcs_Dupl\u00E1nL\u00E1ncoltListaAAT\\Doubly linked list\\playlist.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E3BB64CB-A46D-48E9-8558-C789A54F9239}|Double linked list.vcxproj|solutionrelative:playlist.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3BB64CB-A46D-48E9-8558-C789A54F9239}|Double linked list.vcxproj|C:\\Users\\Szabolcs\\Desktop\\Adatszerkezetek\\Vid\u00E1m_Szabolcs_Dupl\u00E1nL\u00E1ncoltListaAAT\\Doubly linked list\\DBLLinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E3BB64CB-A46D-48E9-8558-C789A54F9239}|Double linked list.vcxproj|solutionrelative:DBLLinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3BB64CB-A46D-48E9-8558-C789A54F9239}|Double linked list.vcxproj|C:\\Users\\Szabolcs\\Desktop\\Adatszerkezetek\\Vid\u00E1m_Szabolcs_Dupl\u00E1nL\u00E1ncoltListaAAT\\Doubly linked list\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E3BB64CB-A46D-48E9-8558-C789A54F9239}|Double linked list.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBLLinkedList.cpp",
+              "DocumentMoniker": "C:\\Users\\Szabolcs\\Desktop\\Adatszerkezetek\\Vid\u00E1m_Szabolcs_Dupl\u00E1nL\u00E1ncoltListaAAT\\Doubly linked list\\DBLLinkedList.cpp",
+              "RelativeDocumentMoniker": "DBLLinkedList.cpp",
+              "ToolTip": "C:\\Users\\Szabolcs\\Desktop\\Adatszerkezetek\\Vid\u00E1m_Szabolcs_Dupl\u00E1nL\u00E1ncoltListaAAT\\Doubly linked list\\DBLLinkedList.cpp",
+              "RelativeToolTip": "DBLLinkedList.cpp",
+              "ViewState": "AQIAAFwBAAAAAAAAAAAkwGoBAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-11T16:46:30.576Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DBLLinkedList.h",
+              "DocumentMoniker": "C:\\Users\\Szabolcs\\Desktop\\Adatszerkezetek\\Vid\u00E1m_Szabolcs_Dupl\u00E1nL\u00E1ncoltListaAAT\\Doubly linked list\\DBLLinkedList.h",
+              "RelativeDocumentMoniker": "DBLLinkedList.h",
+              "ToolTip": "C:\\Users\\Szabolcs\\Desktop\\Adatszerkezetek\\Vid\u00E1m_Szabolcs_Dupl\u00E1nL\u00E1ncoltListaAAT\\Doubly linked list\\DBLLinkedList.h",
+              "RelativeToolTip": "DBLLinkedList.h",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-11T22:01:15.988Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Szabolcs\\Desktop\\Adatszerkezetek\\Vid\u00E1m_Szabolcs_Dupl\u00E1nL\u00E1ncoltListaAAT\\Doubly linked list\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\Szabolcs\\Desktop\\Adatszerkezetek\\Vid\u00E1m_Szabolcs_Dupl\u00E1nL\u00E1ncoltListaAAT\\Doubly linked list\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAEABAAAAAAAAAAAUwDQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-11T21:34:46.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "playlist.txt",
+              "DocumentMoniker": "C:\\Users\\Szabolcs\\Desktop\\Adatszerkezetek\\Vid\u00E1m_Szabolcs_Dupl\u00E1nL\u00E1ncoltListaAAT\\Doubly linked list\\playlist.txt",
+              "RelativeDocumentMoniker": "playlist.txt",
+              "ToolTip": "C:\\Users\\Szabolcs\\Desktop\\Adatszerkezetek\\Vid\u00E1m_Szabolcs_Dupl\u00E1nL\u00E1ncoltListaAAT\\Doubly linked list\\playlist.txt",
+              "RelativeToolTip": "playlist.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-14T18:27:14.902Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

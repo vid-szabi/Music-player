@@ -1,0 +1,9 @@
+Smells like teen spirit|Nirvana|songs1/smells like.mp3
+Dancing Queen|ABBA|songs1/dancing queen.mp3
+Thunderstruck|AC/DC|songs1/thunderstruck.mp3
+Stan|Eminem|songs1/stan.mp3
+Wake me up before you go-go|Wham!|songs1/wake me up.mp3
+Billie Jean|Michael Jackson|songs1/billie jean.mp3
+Poison's Gone|Kurt Kobaine|songs1/poisons gone.mp3
+Bohemian Rhapsody|Queen|songs1/bohemian rhapsody.mp3
+All i want for Christmas is You|Mariah Carey|songs1/all i want.mp3
