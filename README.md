@@ -1,4 +1,4 @@
-# Music player application using custom data type and SDL2 libraries
+# Music player using custom data type and SDL2 libraries
 
 ## Overview
 This C++ music player application reads a playlist from a text file and stores it in a doubly linked list. The application provides various options for managing and playing music tracks.
